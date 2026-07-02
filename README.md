@@ -1,54 +1,61 @@
- 🎮 Hangman Game (Python)
+# CodeAlpha Python Programming Internship
+This repository contains the Python projects completed as part of the CodeAlpha Python Programming Internship.
 
- 📌 Project Description
-This is a simple command-line Hangman Game developed in Python. The player has to guess the hidden word one letter at a time before running out of attempts.
-The project demonstrates the use of Python fundamentals such as loops, conditional statements, functions, lists, strings, and random module.
+## Task 1: Hangman Game
 
-✨ Features
-* Random word selection
-* Letter-by-letter guessing
-* Limited number of attempts
-* Displays correctly guessed letters
-* Prevents duplicate guesses
-* Win/Lose result display
-* Simple command-line interface
+### Description
+A simple text-based Hangman game where the player guesses a hidden word one letter at a time. The player has a maximum of 6 incorrect guesses to find the correct word.
 
-🛠️ Technologies Used
-* Python 3
-* VS Code
+### Features
+- Uses a predefined list of 5 words.
+- Random word selection.
+- Maximum of 6 incorrect guesses.
+- Displays correctly guessed letters.
+- Simple command-line interface.
 
-📂 Project Structure
-Hangman/
-│── hangman.py
-│── README.md
+### Concepts Used
+- Python Lists
+- Strings
+- Random Module
+- While Loop
+- If-Else Statements
 
-▶️ How to Run
-1. Clone the repository:
-git clone https://github.com/CoderAdityaArora/codealpha__tasks.git
-2. Navigate to the project folder:
-cd codealpha__tasks
-3. Run the program:
-python hangman.py
+### How to Run
+bash
+python "hangman game.py"
 
-📖 How to Play
-* The computer randomly selects a word.
-* Guess one letter at a time.
-* If the guessed letter is correct, it is revealed in the word.
-* If the guess is incorrect, one attempt is lost.
-* Continue until you guess the complete word or run out of attempts.
+## Task 2: Stock Portfolio Tracker
 
-🎯 Learning Outcomes
-* Python Basics
-* Loops and Conditions
-* Functions
-* Lists and Strings
-* Random Module
-* User Input Handling
+### Description
+A simple stock portfolio tracker that calculates the total investment value using predefined stock prices.
 
-👨‍💻 Author
+### Features
+- User enters stock names and quantities.
+- Uses a hardcoded dictionary for stock prices.
+- Calculates total investment value.
+- Displays investment summary.
+- Supports saving results to a text or CSV file (if implemented).
 
+### Concepts Used
+- Dictionary
+- Input/Output
+- Basic Arithmetic
+- File Handling
+
+### How to Run
+bash
+python stock.py
+
+## Technologies Used
+- Python 3
+
+## Repository Structure
+├── README.md
+├── hangman game.py
+└── stock.py
+
+## Author
+**ADITYA ARORA**
 **Aditya Arora**
 
-GitHub: https://github.com/CoderAdityaArora
-
-⭐ If you found this project helpful, consider giving the repository a star.
+CodeAlpha Python Programming Internship
