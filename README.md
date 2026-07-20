@@ -20,10 +20,6 @@ A simple text-based Hangman game where the player guesses a hidden word one lett
 - While Loop
 - If-Else Statements
 
-### How to Run
-bash
-python "hangman game.py"
-
 ## Task 2: Stock Portfolio Tracker
 
 ### Description
@@ -43,8 +39,8 @@ A simple stock portfolio tracker that calculates the total investment value usin
 - File Handling
 
 ### How to Run
-bash
-python stock.py
+-bash
+-python stock.py
 
 ## Technologies Used
 - Python 3
@@ -56,6 +52,4 @@ python stock.py
 
 ## Author
 **ADITYA ARORA**
-**Aditya Arora**
-
-CodeAlpha Python Programming Internship
+**CodeAlpha Python Programming Internship**
