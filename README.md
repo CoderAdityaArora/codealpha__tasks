@@ -51,5 +51,5 @@ A simple stock portfolio tracker that calculates the total investment value usin
 └── stock.py
 
 ## Author
-**ADITYA ARORA**
+ADITYA ARORA
 **CodeAlpha Python Programming Internship**
