@@ -2,6 +2,7 @@
 This repository contains the Python projects completed as part of the CodeAlpha Python Programming Internship.
 
 ## Task 1: Hangman Game
+A simple game which is made using python fundamentals 
 
 ### Description
 A simple text-based Hangman game where the player guesses a hidden word one letter at a time. The player has a maximum of 6 incorrect guesses to find the correct word.
