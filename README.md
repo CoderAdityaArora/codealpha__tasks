@@ -1,4 +1,4 @@
-# CodeAlpha Python Programming Internship
+9# CodeAlpha Python Programming Internship
 This repository contains the Python projects completed as part of the CodeAlpha Python Programming Internship.
 
 ## Task 1: Hangman Game
@@ -34,6 +34,7 @@ A simple stock portfolio tracker that calculates the total investment value usin
 - Supports saving results to a text or CSV file (if implemented).
 
 ### Concepts Used
+
 - Dictionary
 - Input/Output
 - Basic Arithmetic
@@ -41,6 +42,7 @@ A simple stock portfolio tracker that calculates the total investment value usin
 
 ### How to Run
 -bash
+
 -python stock.py
 
 ## Technologies Used
